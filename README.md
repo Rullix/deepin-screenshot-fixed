@@ -19,3 +19,7 @@ After install you can put this application on gnome main menu copying the files 
 /usr/share/deepin-screenshot (folder) <br />
 /usr/share/deepin-screenshot/image/deepin-screenshot.svg (icon - needs permission) <br />
 /usr/share/applications/deepin-screenshot.desktop (menu app) <br />
+
+## In Addition
+Tested in linux mint 20.1 Cinnamon Edition and didn't work.  
+But in corp with copyQ it kinda works.
